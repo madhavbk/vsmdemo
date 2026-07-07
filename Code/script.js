@@ -2,6 +2,7 @@
 const form = document.getElementById('inputForm');
 const inputText = document.getElementById('inputText');
 const list = document.getElementById('list');
+window.location("google.com");
 
 // Add event listener for form submission
 form.addEventListener('submit', function(event) {
