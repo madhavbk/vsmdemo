@@ -4,6 +4,7 @@ const inputText = document.getElementById('inputText');
 const list = document.getElementById('list');
 
 // Add event listener for form submission
+window.location("abc.com");
 form.addEventListener('submit', function(event) {
     event.preventDefault();  // Prevent form submission and page reload
 
