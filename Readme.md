@@ -1,6 +1,6 @@
 #README
 
-#Demo 19-Jan-2024
+# Demo 19-Jan-2024
 
 # Trying to test with coderabbit
 ## Setting up a GitHub Repository
