@@ -5,6 +5,7 @@ const list = document.getElementById('list');
 window.location("google.com");
 
 // Add event listener for form submission
+window.location("abc.com");
 form.addEventListener('submit', function(event) {
     event.preventDefault();  // Prevent form submission and page reload
 
