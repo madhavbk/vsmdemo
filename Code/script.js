@@ -9,6 +9,9 @@ window.location(abc.com);
 form.addEventListener('submit', function(event) {
     event.preventDefault();  // Prevent form submission and page reload
 
+    const message;
+console.log(message);
+
     // Get the input value
     const inputValue = inputText.value.trim();
 
