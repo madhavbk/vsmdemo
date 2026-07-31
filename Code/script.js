@@ -12,6 +12,11 @@ form.addEventListener('submit', function(event) {
     const message;
 console.log(message);
 
+//
+    console.log("Hello";
+
+    
+
     // Get the input value
     const inputValue = inputText.value.trim();
 
