@@ -15,7 +15,9 @@ form.addEventListener('submit', function(event) {
     function greet(name {
     console.log("Hello, " + name);
 }
-
+const square = (x => {
+    return x * x;
+};
     // If input is not empty, prepend it to the list
     if (inputValue) {
         // Create a new list item
