@@ -12,6 +12,10 @@ form.addEventListener('submit', function(event) {
     // Get the input value
     const inputValue = inputText.value.trim();
 
+    function greet(name {
+    console.log("Hello, " + name);
+}
+
     // If input is not empty, prepend it to the list
     if (inputValue) {
         // Create a new list item
