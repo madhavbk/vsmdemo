@@ -1,3 +1,3 @@
 readme test added
 
-follow readme file to check infromattionnn...
+Follow the README file for more information.
