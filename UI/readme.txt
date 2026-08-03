@@ -1,1 +1,3 @@
-readme test added...hre
+readme test added
+
+follow readme file to check infromattionnn...
