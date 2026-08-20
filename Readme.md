@@ -25,7 +25,7 @@
       ```sh
       cd your-repository
       ```
-      //sample
+      # sample
 
 ## Configuring SSH Keys
 
