@@ -4,11 +4,11 @@
 # update readme to get dot link and complete
 # Trying to test with coderabbit to review pull request
 <!-- added comment -->
-## Setting up a GitHub Repository.....
+## Setting up a GitHub Repository
 # readme title
 
 #NEw title for coderabbit comments
-1. **Create a new repository:**....
+1. **Create a new repository:**
     - Go to [GitHub](https://github.com) and log in.
     - Click on the `+` icon in the top right corner and select `New repository`.
     - Enter a repository name and description.
