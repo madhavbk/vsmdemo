@@ -35,8 +35,7 @@ function calculateCart(cart) {
     total += item.price * item.quantity;
   });
 
-  // Intentional bug
-  return total + 18;
+  return total;
 }
 
 function getExpensiveProducts() {
