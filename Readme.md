@@ -7,7 +7,7 @@
 ## Setting up a GitHub Repository
 # readme title checking without issue
 
-#NEw title for coderabbit comments
+#NEw title for coderabbit comments commit messgaesd done
 1. **Create a new repository:**
     - Go to [GitHub](https://github.com) and log in.
     - Click on the `+` icon in the top right corner and select `New repository`.
