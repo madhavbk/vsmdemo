@@ -1,14 +1,17 @@
 def calculate_average(numbers):
     total = 0
-    for number in numbers
+    for number in numbers:
         total += number
     return total / len(numbers)
 
 
 def find_largest(numbers):
-    largest = 0
-    for number in numbers:
-        if number > largest
+    if not numbers:
+        raise ValueError("numbers must not be empty")
+
+    largest = numbers[0]
+    for number in numbers[1:]:
+        if number > largest:
             largest = number
     return largest
 
@@ -21,15 +24,15 @@ def main():
     print("Largest:", find_largest(numbers))
 
     name = input("Enter your name: ")
-    print("Hello, " + name
+    print("Hello, " + name)
 
-    age = input("Enter your age: ")
+    age = int(input("Enter your age: "))
     if age >= 18:
         print("You are an adult.")
     else:
         print("You are a minor.")
 
-    result = numbers[5]
+    result = numbers[-1]
     print("Result:", result)
 
-main(
+main()
